@@ -83,67 +83,6 @@ src/
 └── main.jsx                 # Application entry point
 ```
 
----
-
-## 🚀 Quick Start & Local Development
-
-### Prerequisites
-- Node.js (v18.0.0 or higher recommended)
-- npm or yarn
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/MomenBakr/momen-bakr-portfolio.git
-cd momen-bakr-portfolio
-```
-
-### 2. Install Dependencies
-```bash
-npm install
-```
-
-### 3. Run Development Server
-```bash
-npm run dev
-```
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-### 4. Build for Production
-```bash
-npm run build
-```
-The optimized production bundle will be generated in the `dist/` directory.
-
-### 5. Preview Production Build
-```bash
-npm run preview
-```
-
----
-
-## 🌐 100% Free Deployment
-
-### Deploy with Vercel (Recommended)
-1. Push your code to a GitHub repository.
-2. Sign in to [vercel.com](https://vercel.com) using your GitHub account.
-3. Click **"Add New..."** → **"Project"** and import your repository.
-4. Vercel automatically detects the Vite framework settings:
-   - **Build Command:** `npm run build`
-   - **Output Directory:** `dist`
-5. Click **"Deploy"**. Your portfolio is live with a global CDN and automatic SSL!
-
-*Alternatively, deploy directly from your terminal using:*
-```bash
-npx vercel
-```
-
-### Deploy with Netlify (Drag & Drop)
-1. Run `npm run build` to generate the `dist` folder.
-2. Open [app.netlify.com/drop](https://app.netlify.com/drop).
-3. Drag and drop the `dist/` folder. Your website goes live in seconds.
-
----
-
 ## 👨‍💻 About Mo'men Bakr
 
 **Mobile Software Engineer** based in Giza, Egypt with **3+ years of experience** developing and deploying scalable mobile applications to the Apple App Store and Google Play Store:
