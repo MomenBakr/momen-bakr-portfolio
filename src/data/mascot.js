@@ -6,7 +6,7 @@ export const MASCOT_DIALOGUES = {
   },
   about: {
     badge: '💡 3+ Yrs Experience',
-    quote: "I engineer high-performance Flutter, Kotlin & SwiftUI applications across Egypt & the Gulf.",
+    quote: "I lead & engineer high-performance Flutter, Kotlin & SwiftUI applications across Egypt & the Gulf.",
     tip: '📄 Click "Download CV" to get my complete resume in PDF!',
   },
   skills: {
@@ -16,8 +16,8 @@ export const MASCOT_DIALOGUES = {
   },
   experience: {
     badge: '🚀 Track Record',
-    quote: "Led multi-tier mobile engineering at MasDB Soft & built Kuwait's cooperative retail apps at Development KW.",
-    tip: '📊 3-Sided marketplace & realtime GPS dispatching.',
+    quote: "Flutter Team Lead at Brmja Tech, previously led mobile engineering at MasDB Soft & Development KW.",
+    tip: '📊 Team leadership, 3-sided marketplaces & real-time systems.',
   },
   projects: {
     badge: '📱 14+ Live Apps',
@@ -36,7 +36,7 @@ export const MASCOT_DIALOGUES = {
   },
   contact: {
     badge: '💬 Let\'s Connect',
-    quote: "Looking for a Mobile Engineer or Flutter Consultant? Call or WhatsApp me anytime!",
+    quote: "Looking for a Flutter Team Lead or Mobile Engineer? Call or WhatsApp me anytime!",
     tip: '🚀 Direct dial & WhatsApp links ready below.',
   },
 }

@@ -47,20 +47,26 @@ export function AboutSection() {
             <span className="section-label">About Me</span>
             <h2>Building Pixel-Perfect Mobile Experiences</h2>
             <p className="about-text">
-              Dedicated Mobile Software Engineer with{' '}
+              Dedicated{' '}
+              <strong style={{ color: 'var(--text-primary)' }}>
+                Flutter Team Lead & Mobile Software Engineer
+              </strong>{' '}
+              with{' '}
               <strong style={{ color: 'var(--text-primary)' }}>3+ years</strong>{' '}
-              of experience building and deploying scalable mobile applications
-              to the App Store and Play Store. Proficient in Flutter (Dart) and
-              Native Android (Kotlin), leveraging BLoC, Clean Architecture, and
-              modern mobile engineering practices to deliver high-performance
-              solutions.
+              of experience building, leading, and deploying scalable mobile
+              applications to the App Store and Play Store. Proficient in Flutter
+              (Dart) and Native Android (Kotlin), leveraging BLoC, Clean
+              Architecture, and modern engineering standards to deliver
+              high-performance solutions.
               <br />
               <br />
-              Experienced in building 3-sided marketplace ecosystems (Customer ×
-              Merchant × Delivery) with real-time tracking, secure multi-role
-              checkout flows, and Gulf cooperative society platforms. Currently
-              expanding into backend engineering with Node.js, Laravel, and
-              NestJS.
+              Currently serving as{' '}
+              <strong style={{ color: 'var(--text-primary)' }}>
+                Flutter Team Lead at Brmja Tech
+              </strong>
+              , previously leading multi-tier mobile development at MasDB Soft
+              (3-sided marketplace ecosystems) and Development KW (Kuwait
+              cooperative society platforms).
             </p>
             <div className="about-stats" data-reveal="scale" data-reveal-stagger>
               <div className="stat-card glass-card">

@@ -53,7 +53,7 @@ src/
 ├── data/                    # Pure data layer (models, copy & configurations)
 │   ├── navigation.js        # Navbar link items
 │   ├── skills.js            # 6 tech domains with logos & proficiencies
-│   ├── experience.js        # Career timeline (MasDB Soft & Development KW)
+│   ├── experience.js        # Career timeline (Brmja Tech, MasDB Soft & Development KW)
 │   ├── projects.js          # 14 production apps, stores & pub.dev package
 │   ├── repos.js             # Fallback open-source repos & language colors
 │   └── mascot.js            # Section guide quotes, badges & tips
@@ -85,10 +85,11 @@ src/
 
 ## 👨‍💻 About Mo'men Bakr
 
-**Mobile Software Engineer** based in Giza, Egypt with **3+ years of experience** developing and deploying scalable mobile applications to the Apple App Store and Google Play Store:
+**Flutter Team Lead & Mobile Software Engineer** with **3+ years of experience** developing, leading, and deploying scalable mobile applications to the Apple App Store and Google Play Store:
 
-- **E-Commerce & Retail:** Engineered 3-sided marketplace ecosystems (Customer × Merchant × Delivery) with real-time order lifecycle tracking and automated dispatching.
-- **Cooperative Societies:** Built Gulf cooperative society platforms with secure checkout, inventory synchronization, and price comparison portals.
+- **Team Leadership & Architecture:** Flutter Team Lead at **Brmja Tech**, establishing enterprise architectural standards, code review workflows, and sprint execution.
+- **E-Commerce & Retail:** Engineered 3-sided marketplace ecosystems (Customer × Merchant × Delivery) at **MasDB Soft** with real-time order lifecycle tracking and automated dispatching.
+- **Cooperative Societies:** Built Gulf cooperative society platforms at **Development KW** with secure checkout, inventory synchronization, and price comparison portals.
 - **Clean Architecture & Standards:** Core discipline in BLoC state management, SOLID principles, offline-first database synchronization, and reactive streams.
 - **Open Source:** Author of `native_picture_in_picture` on [pub.dev](https://pub.dev/packages/native_picture_in_picture) (160/160 points).
 
